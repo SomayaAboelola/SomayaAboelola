@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somaya Magdy</h1>
 <h3 align="center">Software Engineer|.Net Developer</h3>
 
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/b09e7f86-31b3-4026-9724-520b100911c0" alt="صورة شخصية" style="border-radius: 50%; background-color: black; padding: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3); width: 200px; height: 200px; object-fit: cover;">
+</p>
 - 👨‍💻 All of my projects are available at [https://somayaaboelola.github.io/Personal-Portofolio/](https://somayaaboelola.github.io/Personal-Portofolio/)
 
 - 📫 How to reach me **somayamagdyaboelola@gmail.com**
@@ -11,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/somaya-magdy-172046306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/somaya-magdy-172046306" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/somayamagdy2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/somayamagdy2000/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/A27wV2pj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/A27wV2pj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,8 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somayaaboelola&label=Profile%20views&color=0e75b6&style=flat" alt="somayaaboelola" /> </p>
 
 <div align=center>
-        <img src="https://github.com/user-attachments/assets/e9df2725-178b-48be-be8c-2a9dda1e25fd" alt="somayamagdy" height="200">
+        <img src="https://github.com/user-attachments/assets/511d8413-e281-4ac3-9846-dc02bc3a34df" alt="somayamagdy" height="200">
     </div>
+
 
 - 👨‍💻 All of my projects are available at [https://somayaaboelola.github.io/Personal-Portofolio/](https://somayaaboelola.github.io/Personal-Portofolio/)
 
